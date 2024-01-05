@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lordsarcastic/test-github-package/issues"
   },
-  "homepage": "https://github.com/lordsarcastic/test-github-package#readme"
+  "homepage": "https://github.com/lordsarcastic/test-github-package#readme",
+  "publishConfig": {
+    "@lordsarcastic:registry": "https://npm.pkg.github.com"
+  }
 }
